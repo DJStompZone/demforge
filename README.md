@@ -1,5 +1,7 @@
 # DEMForge POC
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Economy-Plus/demforge/blob/main/usgs_training.ipynb)
+
 A practical proof-of-concept for DEM-trained procedural terrain generation.
 
 Goal:
